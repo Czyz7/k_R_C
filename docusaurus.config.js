@@ -65,12 +65,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/logo_CCC.jpg",
       navbar: {
         title: "Knowledge Resource Center",
         logo: {
           alt: "My Site Logo",
-          src: "img/logo.svg",
+          src: "img/cCC.svg",
         },
         items: [
           { to: "/policies", label: "Policies", position: "left" },
