@@ -73,7 +73,31 @@ const config = {
           src: "img/cCC.svg",
         },
         items: [
-          { to: "/policies", label: "Policies", position: "left" },
+          {
+            to: "/docs/category/policies",
+            label: "Policies",
+            position: "left",
+          },
+          {
+            to: "/docs/category/procedures",
+            label: "Procedures",
+            position: "left",
+          },
+          {
+            to: "/docs/category/policies",
+            label: "Policies",
+            position: "left",
+          },
+          {
+            to: "/docs/category/policies",
+            label: "Policies",
+            position: "left",
+          },
+          {
+            to: "/docs/category/policies",
+            label: "Policies",
+            position: "left",
+          },
           {
             href: "https://github.com/facebook/docusaurus",
             label: "GitHub",

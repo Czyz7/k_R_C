@@ -1,7 +1,3 @@
----
-sidebar_position: 1
----
-
 # IEHP Inbound Calls
 
 ### \*Effective immediately 01/02/2025
@@ -18,19 +14,33 @@ back within 1 Business Day and submit the following email template:
 ```
 
 To: @Mariam Demars
+
 Cc: contact@joinccc.org
+
 Subject: IEHP Missed Call
-Good Morning/Afternoo
+
+Good Morning/Afternoon,
+
 The following IEHP inbound call was missed due to the unavailability of all CCC Department Administrators:
+
 Date (Required):
+
 Time (Required):
+
 Incoming Number (Required):
+
 Caller Name (Required):
+
 Caller Direct Number (Required):
+
 Caller Email (Required):
+
 Reason for Call (Required):
+
 Member ID:
+
 Member Name:
+
 Member DOB:
 
 ```
@@ -41,8 +51,9 @@ Member DOB:
 
 :::warning ‼️
 
-If the Inbound IEHP representative is a Member's Enhanced Care Manager (ECM), the caller ma
-transferred to the Member's assigned CM for collaboratio
+If the Inbound IEHP representative is a Member's Enhanced Care Manager (ECM), the caller may be
+transferred to the Member's assigned CM for collaboration.
+
 You may refer to CCC's Company Roster for your Department Administrator's contact informatio
 
 :::
