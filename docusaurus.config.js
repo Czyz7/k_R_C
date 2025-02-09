@@ -84,24 +84,19 @@ const config = {
             position: "left",
           },
           {
-            to: "/docs/category/policies",
-            label: "Policies",
+            to: "/docs/category/announcements",
+            label: "Announcements",
+            position: "left",
+          },
+          {
+            to: "/docs/category/documents",
+            label: "Documents",
             position: "left",
           },
           {
             to: "/docs/category/policies",
             label: "Policies",
             position: "left",
-          },
-          {
-            to: "/docs/category/policies",
-            label: "Policies",
-            position: "left",
-          },
-          {
-            href: "https://github.com/facebook/docusaurus",
-            label: "GitHub",
-            position: "right",
           },
         ],
       },
@@ -140,10 +135,6 @@ const config = {
               {
                 label: "Blog",
                 to: "/blog",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
               },
             ],
           },
