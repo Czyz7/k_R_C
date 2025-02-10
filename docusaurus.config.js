@@ -94,8 +94,18 @@ const config = {
             position: "left",
           },
           {
-            to: "/docs/category/policies",
-            label: "Policies",
+            to: "/docs/category/case-manager-tools",
+            label: "Case Manager Tools",
+            position: "left",
+          },
+          {
+            to: "/docs/category/member-resources",
+            label: "Member Resources",
+            position: "left",
+          },
+          {
+            to: "/docs/category/trusted-pmslls",
+            label: "Trusted PMs/LLs",
             position: "left",
           },
         ],
