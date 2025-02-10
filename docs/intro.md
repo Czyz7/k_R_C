@@ -34,13 +34,12 @@ Very flexible and lean. Designed for education and utilizing the sidebar to grea
 Using AI as a foundation would be dynamic and modern as it can be expanded upon
 Chatbot, suggestive searchbar,
 
-::::tip[Building with the Google ecosystem is arguably the best for running a business]
-Considering cost, development, maintenance, runtime, backend data and accessibility
+::::tip[This site was deployed with Vercel]
+Google. Amazon and CloudFlare are also great options
 
-:::danger[Though there are other ways to acheive this]
+:::danger[Nested features like this are fun to experience when learning]
 
-Vercel, Amazon, CloudFlare and Github are other great ways to depoly the site.
-In _my opinion and experience_, this latter option would be best.
+- It helps add context and makes certain things easier to convey
 
 :::
 
