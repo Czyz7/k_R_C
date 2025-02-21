@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Knowledge Resource Center
+# Internal Resource Center
 
 All the necessary information for a Housing Case Manager.
 
