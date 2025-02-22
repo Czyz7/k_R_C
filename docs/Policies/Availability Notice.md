@@ -15,7 +15,7 @@ Subject: Availability Notice
 
 To: reception@joinccc.org
 
-Cc: contact@joinccc.org, nicolas.a@joinccc.org
+Cc: nicolas.a@joinccc.org
 
 Body:
 
@@ -29,8 +29,7 @@ Time(s): From 10am-11pm
 
 Limited Availability or Unavailability: Limited
 
-Special Notes (optional): I will be in a Teams meeting with a Landlord and cannot take any calls or texts.
-Emergency Only!
+Special Notes (optional): I will be in a Teams meeting with a Landlord and cannot take any calls or texts. Emergency Only!
 
 ```
 
@@ -39,13 +38,13 @@ Emergency Only!
 ## Extended Unavailability
 
 Please be advised, to uphold our standards of quality for our members in the form of availability and continuity,
-CCC will be updating '[POLICY] Availability Notice' to address circumstances of Extended Unavailability.
+CCC will be updating [Availability Notice](/docs/Policies/Availability%20Notice.md) to address circumstances of Extended Unavailability.
 
 ### Red Days
 
 If you anticipate Three (3) “Red Days” in a row (under 1-Hour THT), you will be required to submit the template
-below in lieu of a standard Availability Notice. Corrective measures may be taken if you post 3 Red Days in a row
-without submitting the Extended Unavailability Notice template.
+below in lieu of a standard **Availability Notice**. Corrective measures may be taken if you post 3 Red Days in a row
+without submitting the **Extended Unavailability Notice** template.
 
 ### Caseload Temporarily Reassigned
 

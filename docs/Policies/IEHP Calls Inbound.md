@@ -54,6 +54,6 @@ Member DOB:
 If the Inbound IEHP representative is a Member's Enhanced Care Manager (ECM), the caller may be
 transferred to the Member's assigned CM for collaboration.
 
-You may refer to CCC's Company Roster for your Department Administrator's contact informatio
+You may refer to CCC's Company Roster for your Department Administrator's contact information.
 
 :::

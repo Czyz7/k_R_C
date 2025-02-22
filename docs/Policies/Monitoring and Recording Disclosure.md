@@ -1,0 +1,23 @@
+# Monitoring/Recording Disclosure
+
+### \*Effective Immediately 11/04/2024
+
+All calls are now not only monitored, but also recorded. To ensure compliance, it is
+MANDATORY for ALL CCC Team Members taking or making a call to provide the following disclosure:
+
+"Please be advised that this call may be monitored or recorded for quality assurance purposes."
+
+You must provide the above disclosure at the beginning of ALL Incoming or Outgoing calls. If a new caller joins an
+ongoing call in which the Disclosure was already provided, a new Disclosure must be provided to the newly joining
+party. The Disclosure must be verbally read at the beginning of each new call, each time, without exception.
+Monitoring/Recording Disclosure does not have to be mentioned for Internal calls with CCC Team Members unless
+there is a third party also on the call.
+
+Failure to provide Monitoring/Recording Disclosure at the beginning of ALL calls will result in disciplinary actions.
+This Policy, like all PPAs (Policies/Procedures/Announcements) are being actively monitored and enforced by CCC's
+Quality Control Department.
+
+We appreciate your cooperation in helping CCC stay compliant with call-center regulations.
+
+Monitoring/Recording Disclosure must be read to natural human beings who are not affiliated team members of
+CCC. Voicemail greetings and automated systems do not require Monitoring/Recording Disclosure to be read.
