@@ -1,4 +1,4 @@
-# Proof of Income
+# Proof of Income (Required)
 
 ### \*Effective 12/19/2024
 

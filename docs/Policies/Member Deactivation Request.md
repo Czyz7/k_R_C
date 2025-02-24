@@ -1,0 +1,129 @@
+# Member Deactivation/Reactivation Request
+
+### \*Effective Immediately 12/17/2024
+
+## Member Deactivation Request
+
+Moving forward, @CCC Billing Department will AUTOMATICALLY DEACTIVATE members with UTC for 4 straight
+Weekly Reports.
+
+If you have not had any contact with the member for 4 weeks straight, expect for the member to
+be deactivated by billing.
+
+:::warning REMINDER:
+
+Do not confuse **"`Deactivation`"** with **"`Disenrolled`"**.
+
+- When a member is _`Deactivated`_, they are no longer a member of CCC.
+
+- When a member is _`Disenrolled`_, they are no longer a member of IEHP or other Health Plans.
+
+:::
+
+:::info Common Reasons for Deactivation:
+
+- **Unable to Contact (UTC)**: Must be unreachable for 90 consecutive days from most recent communication. If
+  communication is made, 90 day period resets. Phone, Text and Email messages count as communication
+- **Redirection**: Member requests redirection to another program or provider
+- **Disenrolled**: Member no longer enrolled with healthcare provider
+- **Relocation**: Member moved to another State or County
+- **Duplicate Services**: Member's household member is already being assisted by CCC
+
+:::
+
+### Deactivation Request Template
+
+```
+
+To: billing@joinccc.org
+
+Subject: Deactivation Request
+
+Body:
+
+Member Name:
+
+Member ID #:
+
+Reason for Deactivation:
+
+```
+
+## Member Reactivation Request
+
+All Reactivation Requests must be tied to a recorded call which will be reviewed by
+Underwriting for approval.
+
+Please assist @CCC Underwriting Department to efficiently track the call by providing
+relevant details using the template below.
+
+It is important to inform your members that they will be deactivated, resulting in the loss of their Security Deposit
+Voucher with CCC, if they do not establish contact with you at least once per month.
+
+If contact with the member is reestablished after being deactivated, you may submit the following email for Reactivation:
+
+### Requirements
+
+:::tip Underwriting will review the request for the following:
+
+1. **Verbal Engagement**: Ensure that you have verbally engaged in conversation with the member within the last
+   30 days and have made extensive notes on Actionable Items from the discussion. Text Messages are NOT
+   considered Vergal Engagement. You are encouraged to copy and paste RingCentral's AI Notes from your
+   Verbal Engagement conversation.
+
+2. **Active Notetaking in CP**: DO NOT request re-activation without updating the case notes in CP. Clear and
+   detailed notation from your most recent conversation with the member is crucial for efficient re-activation.
+   Failure to notate may result in the assessment of Bad Points by Underwriting. Case Managers will be
+   evaluated on their ability to exercise Active Notetaking.
+
+3. **Template Completion**: Always include the Member’s Full Name, ID Number and Reason for Re-activation. You
+   may be assessed Bad Points for failure to complete the Required fields of the template.
+
+:::
+
+### Actionable Items
+
+:::note Examples of Actionable Items include but are not limited to the following:
+
+- Housing Searches
+- Benefit Applications
+- Employment Searches
+- Strategy Meetings
+- Joint Follow-Ups
+- Progress Updates
+
+:::
+
+### Reactivation Request Template
+
+(MDX)
+
+\*All Fields Required
+
+```
+
+To: underwriting@joinccc.org
+
+Subject: Reactivation Request
+
+Body:
+
+Member Name (Required):
+
+Member ID # (Required):
+
+Phone # From Most Recent Call (Required):
+
+Call Date (Required):
+
+Call Time (Required):
+
+Reason for Reactivation (Required):
+
+```
+
+(MDX)
+
+The following points will be assessed based on compliance of the above template.
+• Perfect Submission: 0.25 GP Total
+• Non-Compliance: 0.25 BP Per Occurrence
