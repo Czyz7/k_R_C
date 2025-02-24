@@ -1,0 +1,72 @@
+# Legal Assistance Request
+
+### \*Effective 01/10/2025
+
+I am excited to announce that we have developed a Procedure to support members dealing with legal issues, such
+as active and ongoing eviction proceedings. If you have a member that might benefit from legal administrative
+assistance, please proceed with the procedure template below to receive a CCC Legal Strategist assigned to your
+member's case. If approved, you may collaborate with the CCC Legal Strategist assigned to assist your member with
+ongoing legal concerns for as long as necessary.
+
+A very big shout out to **`@Graciela Romero`** for being CCC's first Legal Strategist and making this initiative possible.
+
+## Step 1: Verbal Disclosure
+
+Prior to submitting a 'Legal Assistance Request' you must first read and record the following verbal disclosure. Be
+sure to record the verbal consent of your member and upload the MP3 recording into the member's CarePatron
+case file along with your email request. You may use Voice Recorder to obtain the file. Failure to upload Verbal
+Disclosure audio file in either CarePatron and/or your email may result in disciplinary actions.
+
+:::tip Verbal Disclosure
+
+"I want to inform you that this verbal disclosure is being recorded. May I please have you state your name and date
+of birth? Thank you.
+
+Please be advised that CCC's Legal Assistance services should not be considered as official legal advice nor representation.
+
+Your assigned Legal Strategist is a trained specialist tasked to assist you administratively with specific legal matters
+and should not be mistaken as your lawyer, counselor or legal representative.
+
+You should not expect your assigned Legal Strategist to represent you in a court of law or provide you with official legal advice.
+
+CCC will not be held liable for any legal outcomes should you choose not to seek official legal representation by a
+
+California Board Certified Lawyer or Legal Representative.
+
+By submitting this application, you are not guaranteed to be assigned a Legal Strategist.
+
+All cases are subject for review on a first-come-first-served basis. If you agree and accept these terms, please say "YES".
+
+:::
+
+## Step 2: Legal Assistance Request Submission
+
+:::info Use the following template to send a 'Legal Assistance Request' and obtain a CCC Legal Strategist for your member:
+
+```
+
+To: graci.r@joinccc.org
+
+Subject: Legal Assistance Request
+
+Good Morning/Afternoon,
+
+Requesting legal assistance for the following member.
+
+Member Name:
+
+Member ID:
+
+Housing Status: Navigation or Sustaining
+
+Legal Issue:
+
+Active Court Case: Yes or No
+
+Case Number: Leave Blank if None
+
+Additional Info (Required):
+
+```
+
+:::

@@ -3,6 +3,7 @@ import Heading from "@theme/Heading";
 import styles from "./styles.module.css";
 
 const FeatureList = [
+  /*
   {
     title: "Easy to Use",
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
@@ -15,7 +16,7 @@ const FeatureList = [
   },
   {
     title: "Focus on What Matters",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    Svg: require("@site/static/img/cCC.svg").default,
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -33,6 +34,7 @@ const FeatureList = [
       </>
     ),
   },
+  */
 ];
 
 function Feature({ Svg, title, description }) {

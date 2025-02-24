@@ -21,7 +21,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/intro"
           >
-            Basic Idea of the KRC
+            Let's get started
           </Link>
         </div>
       </div>
