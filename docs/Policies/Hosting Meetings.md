@@ -27,7 +27,7 @@ Applies to **Training Instructors** who are authorized to host Internal training
 Policies/Procedures/Announcements (PPA) or other relevant service-related instructional subjects. Attending/Hosting/Presenting
 in `External` Meetings for **Training Instructors** is strictly prohibited.
 
-:::danger **`1` Guests are UNAUTHORIZED to attend Internal CCC Meetings.**
+:::danger **Guests are UNAUTHORIZED to attend Internal CCC Meetings.**
 
 :::
 
