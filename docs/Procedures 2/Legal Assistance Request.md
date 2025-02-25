@@ -10,6 +10,46 @@ ongoing legal concerns for as long as necessary.
 
 A very big shout out to **`@Graciela Romero`** for being CCC's first Legal Strategist and making this initiative possible.
 
+## Required Documents
+
+Please refer to the requirements below when submitting a Legal Assistance Request. Be sure to gather all necessary
+documents for our Legal Strategists prior to submitting a Legal Assistance Request. All required documents must be
+uploaded to Carepatron and attached to the Legal Assistance Request email for review, along with the Verbal
+Disclosure recording.
+
+(MDX)
+
+### Eviction/Housing Issues (Not Yet in Court):
+
+- Copy of the notice the member received (e.g., 3-Day Notice to Pay Rent or Quit) [REQUIRED]
+- Lease agreement, if available [REQUIRED]
+- Relevant correspondence (e.g., emails, text messages, letters)
+- Any other relevant documents
+- Photos of habitability issues (not required UNLESS the primary reason for the request is a habitability concern)
+
+### Unlawful Detainer Cases (Filed in Court):
+
+- SCANNED copy of the full lawsuit packet [REQUIRED], which includes:
+  - Complaint (most important document if the full packet is unavailable)
+  - Summons
+  - Civil Case Cover Sheet
+  - Plaintiff's Mandatory Cover Sheet and Supplemental Allegations
+- Copy of the notice the member received (e.g., 3-Day Notice to Pay Rent or Quit) [REQUIRED]
+- Proof of service of the notice [REQUIRED]
+- Lease agreement, if available [REQUIRED]
+- Any other documents they have been served, if applicable [REQUIRED]
+- Relevant correspondence (e.g., emails, text messages, letters)
+- Any other relevant documents
+
+### Sealing of Arrest or Expungement Requests:
+
+- A copy of the RAP sheet, if available [REQUIRED]
+- Case numbers and assigned courthouse [REQUIRED]
+- Any additional relevant documents
+
+NOTE: If a legal issue falls outside of our current practice areas or involves unique circumstances, please email
+graci.r@joinccc.org or call @Graciela Romero directly before submittng a Legal Assistance Request.
+
 ## Step 1: Verbal Disclosure
 
 Prior to submitting a 'Legal Assistance Request' you must first read and record the following verbal disclosure. Be
