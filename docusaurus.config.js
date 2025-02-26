@@ -114,28 +114,32 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "CCC Company Site",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Homepage",
+                to: "/",
               },
             ],
           },
           {
-            title: "Community",
+            title: "Internal Resource Center",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "Policies",
+                href: "/docs/category/policies",
               },
               {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                label: "Procedures",
+                href: "/docs/category/procedures",
               },
               {
-                label: "X",
-                href: "https://x.com/docusaurus",
+                label: "Announcements",
+                href: "/docs/category/announcements",
+              },
+              {
+                label: "Documents",
+                href: "/docs/category/documents",
               },
             ],
           },
@@ -143,8 +147,16 @@ const config = {
             title: "More",
             items: [
               {
-                label: "Blog",
-                to: "/blog",
+                label: "Case Manager Tools",
+                to: "/docs/category/case-manager-tools",
+              },
+              {
+                label: "Member Resources",
+                to: "/docs/category/member-resources",
+              },
+              {
+                label: "Trusted PMs/LLs",
+                to: "/docs/category/trusted-pmslls",
               },
             ],
           },

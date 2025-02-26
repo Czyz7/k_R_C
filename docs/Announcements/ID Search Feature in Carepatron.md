@@ -1,6 +1,8 @@
 # ID Search Feature in Carepatron
 
-:::tip Please be advised, you may now search Carepatron (CP) using a member's IEHP ID Number.
+### \*Effective 11/22/2024
+
+:::tip Please be advised, you may now search Carepatron (CP) using a member's `IEHP ID Number`.
 
 After months of pursuit, our wonderful **_Ann Baz_** finally made it happen!
 
