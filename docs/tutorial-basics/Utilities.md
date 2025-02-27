@@ -6,9 +6,15 @@
 
 - [California LifeLine](https://www.californialifeline.com/en): Lower the cost of their phone bills OR house bill.
 
+<br></br>
+
 - [Help Paying Your Bill | Your Home | Home - SCE](https://www.sce.com/residential/assistance?from=/billhelp): Electric bill assistance.
 
+<br></br>
+
 - [Pair Team](https://www.pairteam.com/): Connecting underserved communities to high quality care. Utilities pay for its enhanced care management
+
+<br></br>
 
 - [Community Action Partnership of San Bernardino](https://www.capsbc.org): They have motel vouchers for a 5 days and they only have this available for this week.
 
@@ -28,6 +34,10 @@ Member has to go to this location:
 San Bernardino, CA 92408
 ```
 
+<br></br>
+
 - [Southern California Edison](https://www.sce.com/residential/assistance/energy-saving-program): Members can qualify based on their income for free or discounted appliances.
+
+<br></br>
 
 - [Utility Companies and Discount Program](https://riversideihss.org/PDF/UtilityProgramsRivCo.pdf)
