@@ -42,4 +42,4 @@ disciplinary action.
 ## CCC Company Roster
 
 If for any reason you are unaware who your Department's Administrator is, you may refer to the official [CCC
-Company Roster](docs/Announcements/Company%20Roster%20&%20Internal%20Ranking%20Chart) for reference.
+Company Roster](docs/Announcements/Company%20Roster%20&%20Internal%20Ranking%20Chart.md) for reference.

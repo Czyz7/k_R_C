@@ -28,4 +28,4 @@ advocate on your behalf, but I'm limited once we enter this stage of the process
 
 The chances of experiencing difficulties with a member may be increased when submitting a Deposit Authorization Request
 and entering the Underwriting process. If the member is uncontrollable and escalates the tone of your dialogue, please
-refer to policy titled: [Explicit/Offensive/Harmful Language](docs/Policies/Explicit%20Language)
+refer to policy titled: [Explicit/Offensive/Harmful Language](docs/Policies/Explicit%20Language.md)
