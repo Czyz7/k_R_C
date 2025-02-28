@@ -10,8 +10,6 @@ I have attached both Word and Pages extensions for your convenience.
 
 ## Microsoft Word
 
-[View the Word file](/files/ccc_Word.docx)
-
 <a href="/files/ccc_Word.docx" download>Download Word File</a>
 
 <br></br>
@@ -19,8 +17,6 @@ I have attached both Word and Pages extensions for your convenience.
 <br></br>
 
 ## Apple Pages
-
-[View the Pages file](/files/ccc_Pages.pages)
 
 <a href="/files/ccc_Pages.pages" download>Download Pages File</a>
 
