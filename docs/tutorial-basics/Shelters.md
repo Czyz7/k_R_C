@@ -4,6 +4,8 @@
 
 :::
 
+<br></br>
+
 - **HomeConnect**: Resource line for those experiencing homelessness and at risk of homelessness.
   Referrals to shelters, food banks, rental assistance, utilities assistance
 
@@ -310,5 +312,24 @@ knockknockangels@gmail.com
 <br></br>
 
 - [Emergency Sherlters and Services](https://tinyurl.com/Emerg-Shelters): **(Riverside County)**
+
+<br></br>
+
+- [Women's Shelter](https://vvrescuemission.org/womensprogram/): **(San Bernardino)**
+
+  - The shelter will house six unaccompanied women for 90 days as
+    we work on getting their needs met
+
+Phone #:
+
+```
+(760) 955-5958
+```
+
+Address:
+
+```
+15572 7th Street, PO Box 3060, Victorville, CA 92394
+```
 
 <br></br>

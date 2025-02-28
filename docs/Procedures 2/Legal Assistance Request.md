@@ -1,6 +1,8 @@
 # Legal Assistance Request
 
-### \*Effective 01/10/2025
+### \*Effective 02/24/2025
+
+### Appreciation
 
 I am excited to announce that we have developed a Procedure to support members dealing with legal issues, such
 as active and ongoing eviction proceedings. If you have a member that might benefit from legal administrative

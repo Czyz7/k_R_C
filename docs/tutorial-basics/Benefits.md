@@ -6,6 +6,8 @@
 
 :::
 
+<br></br>
+
 - In-Home Supportive Services (Riverside)
 
   - [Website](https://riversideihss.org/)
@@ -109,6 +111,206 @@
 <br></br>
 
 - [Emergency Resources 2024](https://tinyurl.com/Emergency-Resources-2024)
+
+<br></br>
+
+- **Emergency Motel Vouchers**: **(San Bernardino)**
+
+```
+909-793-2673
+```
+
+<br></br>
+
+- [Connect IE](https://www.connectie.org/)
+
+<br></br>
+
+- [Department of Rehabilitation](https://www.dor.ca.gov/):
+
+  - Members with disabilities this a great site to find resources for them
+
+<br></br>
+
+- **Strong Hearted Native Women’s Coalition**:
+
+  - They help woman with domestic violence, they should be able to help her
+    with the RO and getting her emergency shelter.
+  - She wasn’t able to
+    put my member in a shelter because they were full but she did
+    get her into a hotel for 14days so she had somewhere to
+    stay with her daughter
+
+Norma Contreras
+Case manager
+
+```
+760-644-4671
+```
+
+<br></br>
+
+- [Red Cross](https://resources.redcross.org)
+
+<br></br>
+
+- [Connect IE](https://www.connectie.org/)
+
+<br></br>
+
+- [Housing Discrimmination](https://calcivilrights.ca.gov/housing/):
+
+  - Refer to this link if you came accross LL or PMs who doesn't want
+    to accept Section 8 voucher
+
+<br></br>
+
+- [Childcare](https://calhopeconnect.org/):
+
+  - It just routes to the county office, so ask them about the
+    California Alternative Payment Program (CAPP) and Voucher
+    based Child Care programs
+
+**Childcare for those with CalWorks**:
+
+```
+https://www.cdss.ca.gov/benefits-services/child-services
+```
+
+<br></br>
+
+- **Car Service**:
+
+  - They need to be reserved at least two days in advance.
+  - If you call them number they set everything up.
+  - You just need their member ID , their address,
+    where they are going and pick up time
+
+```
+855-673-3195
+```
+
+<br></br>
+
+- National Domestic Violence Hotline:
+
+```
+800-799-7233
+```
+
+<br></br>
+
+- **Adult Protective Services (APS)**: **Riverside County**
+
+  - Department of Public Social Services
+
+```
+800-491-7123
+```
+
+<br></br>
+
+- [For IHSS Providers](https://www.cdss.ca.gov/in-home-supportive-services)
+
+  - - Until September 30
+  - The providers have until September 30th to complete the courses and until
+    November 15th to claim payment.
+  - Apparently it has been in place for a few years now and they are shutting it down completely this year,
+    unfortunately.
+  - Try to get all your IHSS providers on this so they can collect
+    as much as possible.
+    -They just need to do online courses and get paid.
+  - I think the sky is the limit haha as long as the trainings they choose is available for the type
+    of in home care they do.
+
+<br></br>
+
+- [Inland Regional Center](https://www.inlandrc.org):
+
+  - Here's a website for inland regional center.
+  - You can apply on here & there's more information about the program.
+  - The goal is to help better the lives of disabled people.
+  - They offer several resources including a recreational fund monthly and references to drs.
+  - They give free seminars for parents/ guardians to learn more about their loved ones disability
+
+<br></br>
+
+- [Vital Check](https://www.vitalchek.com/v/):
+
+- You can order birth certificates and death certificates
+
+<br></br>
+
+- **Diaper Distribution Program**:
+
+  - Community Resource Center (CRC)
+  - Emergency food, food pantry
+  - Diaper and formula
+  - Books
+  - Parenting education
+  - Understand government programs
+  - Computer or internet access
+  - Navigating the system
+  - Help fill out forms
+  - Resume development
+
+```
+909-771-2891
+```
+
+<br></br>
+
+- [Aging and Disability Resource](https://www.aging.ca.gov/Programs_and_Services/Aging_and_Disability_Resource_Connection/)
+
+<br></br>
+
+- [Transportation Services](https://www.dhcs.ca.gov/services/medi-cal/Pages/Transportation.aspx)
+
+<br></br>
+
+- [Free Car Application](https://freecharitycars.org/)
+
+<br></br>
+
+- [Lighthouse](https://www.thelighthouseofrestoration.org/): **San Bernardino**
+
+Email:
+
+```
+thelighthouse143@gmail.com
+```
+
+<br></br>
+
+- [Family Services Association of Redlands](http://www.redlandsfamilyservice.org/): **San Bernardino**
+
+Phone:
+
+```
+(909) 793-2673
+```
+
+Address:
+
+```
+612 Lawton Street, Redlands, CA 92374
+```
+
+<br></br>
+
+- **Mary's Haven**:
+
+Phone:
+
+```
+Mary's Haven
+```
+
+<br></br>
+
+- [Directory for Homeless](https://drive.google.com/file/d/1TrdD09ietjKwdMROItTd9-dFbAP5gX4o/view?usp=drive_link): **San Bernardino**
+
+- Directory of all homeless service providers
 
 <br></br>
 
