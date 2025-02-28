@@ -45,9 +45,3 @@ San Bernardino, CA 92408
 - [Utility Companies and Discount Program](https://riversideihss.org/PDF/UtilityProgramsRivCo.pdf)
 
 <br></br>
-
-- [Donate (dollarenergy.org)](dollarenergy.org):
-
-  - This program helps out for any Utility bills
-
-  <br></br>

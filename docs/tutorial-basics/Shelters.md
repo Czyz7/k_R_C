@@ -15,7 +15,7 @@
 
 <br></br>
 
-- [CalWorks Housing Support Program (HSP)](HSP@rivco.org): **(Riverside County)** A program for CalWorks recipients. Temporary shelter vouchers.
+- **CalWorks Housing Support Program (HSP)**: **(Riverside County)** A program for CalWorks recipients. Temporary shelter vouchers.
 
   Housing support program - Security and utilities, deposits, rental assistance, housing navigation.
 

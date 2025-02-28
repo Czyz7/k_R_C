@@ -307,7 +307,7 @@ Address:
 
 <br></br>
 
-- [Fresco Apartments](Fresco): **Riverside County**
+- [Fresco Apartments](https://california.weidner.com/apartments/ca/moreno-valley/fresco): **Riverside County**
 
         - Monday: 10 AM to- 6 PM
         - Tuesday: 10 AM to- 6 PM
