@@ -27,6 +27,8 @@ to provide Proof of Voucher (POV).
 
 :::
 
+<br></br>
+
 :::danger Invalid POI:
 
 ```

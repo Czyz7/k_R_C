@@ -17,6 +17,8 @@ All Authorization status inquiries should go through @CA Care Coordinators Autho
 
 :::
 
+<br></br>
+
 We have advised IEHP to inform us if CCC partners or employees contact IEHP Provider Services or Housing
 Department. If we are informed you have contacted IEHP Provider Services or Housing Department, or if Quality
 Control reports to Upper Management of an incident, disciplinary action will be taken.
@@ -26,9 +28,13 @@ Number or Tax ID Number if you are transferred to IEHP Provider Services or IEHP
 advise the requesting representative that you are unauthorized to provide the information requested if ever you are
 asked for CCC's NPI or Tax ID.
 
+<br></br>
+
 :::danger DO NOT PROVIDE CCC's NPI OR TAX ID
 
 :::
+
+<br></br>
 
 If a member wishes to speak with IEHP Housing Department, they are within their rights to do so, but you may only
 advise them how to be in contact with IEHP Housing. You are unauthorized to call them yourself or with the

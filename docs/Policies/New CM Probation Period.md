@@ -9,6 +9,8 @@ Members.
 Should a New CM complete training and still feel uncertain or insecure in your confidence of understanding our
 workflows, you are welcome to request another round of training from HR prior to becoming activated.
 
+<br></br>
+
 :::info Once officially activated, you will be held accountable to the following requirements:
 
 - New CMs will be on a **30-Day Probationary Period** beginning as of the date they are officially activated after
@@ -19,6 +21,8 @@ workflows, you are welcome to request another round of training from HR prior to
   Bad Point Allowance will replace 12 Bad Point Allowance after initial 30 days.
 
 :::
+
+<br></br>
 
 Be advised, New CMs are expected to start off on the right foot, quickly. Slow starters will not be tolerated or welcomed.
 Many of our New CMs are demonstrating the ability to meet minimum requirements on their very first day and onward.

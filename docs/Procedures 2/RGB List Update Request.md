@@ -15,6 +15,8 @@ domestic and international law.
 
 :::
 
+<br></br>
+
 ## RBG List
 
 CCC has developed an internal tool to help categorize and track our current and former Housing Provider
@@ -46,7 +48,11 @@ Furthermore, once a Housing Provider is on the Black List, they may no longer tr
 
 :::
 
+<br></br>
+
 ## Template to Update RGB List
+
+<br></br>
 
 :::tip HCMs will receive 0.25 GP per submission
 

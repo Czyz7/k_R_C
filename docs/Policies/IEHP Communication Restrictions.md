@@ -14,6 +14,8 @@ capacity except** when:
 
 :::
 
+<br></br>
+
 :::danger DO NOT:
 
 1. Speak with IEHP `Provider Services`
@@ -23,5 +25,7 @@ capacity except** when:
    Department
 
 :::
+
+<br></br>
 
 Other examples of authorized and unauthorized communications with IEHP may be provided in further updates.

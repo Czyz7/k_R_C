@@ -8,6 +8,8 @@ After months of pursuit, our wonderful **_Ann Baz_** finally made it happen!
 
 :::
 
+<br></br>
+
 We have been suggesting this feature along with search by DOB to the Carepatron dev team for months.
 
 This should make all of our lives a bit easier.

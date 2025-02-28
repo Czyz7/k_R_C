@@ -14,6 +14,8 @@ or digital marketing media or materials on behalf of CCC, IEHP or any other part
 
 :::
 
+<br></br>
+
 :::danger **Authorized Materials (Include but not Limited to)**:
 
 1. Direct Deposit Authorization Form (DDAF)
@@ -22,6 +24,8 @@ or digital marketing media or materials on behalf of CCC, IEHP or any other part
 4. Verification of Benefits (VOB)
 
 :::
+
+<br></br>
 
 We do not want you engaging in independent social media marketing or otherwise. Word of Mouth is the only form
 of marketing acceptable for CCC Team Members Rank B or Lower.

@@ -22,6 +22,8 @@ message (you should use your direct CCC number provided)
 
 ## Verification of Ownership (VOO):
 
+<br></br>
+
 :::info
 
 Run a Property Report using to obtain ownership information via PropertyShark.

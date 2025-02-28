@@ -24,9 +24,13 @@ end this call and disenroll you from CCC's Rapid Re-Housing Program forfeiting y
 
 ```
 
+<br></br>
+
 :::danger If member continues, you may abruptly end the call, notate CP extensively and contact your supervisor.
 
 :::
+
+<br></br>
 
 Unfortunately, due to the sensitive and nuanced nature of our services coupled with the dire circumstances of our
 members, and at times, the bad faith of those who wish to take advantage of our resources, difficult moments may arise as

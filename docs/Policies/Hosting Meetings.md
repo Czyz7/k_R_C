@@ -10,6 +10,8 @@
 
 :::
 
+<br></br>
+
 :::info Please be advised:
 
 **CCC Team Members Rank A or Higher are AUTHORIZED to host meetings `Internally`, attend meetings hosted
@@ -30,6 +32,8 @@ in `External` Meetings for **Training Instructors** is strictly prohibited.
 :::danger **Guests are UNAUTHORIZED to attend Internal CCC Meetings.**
 
 :::
+
+<br></br>
 
 If you believe CCC may benefit from a potential partnership with another organization, or if you were invited to
 attend a meeting or presentation hosted externally, please email a supervising CCC Team Member Rank A or Higher

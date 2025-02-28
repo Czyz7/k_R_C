@@ -19,6 +19,8 @@ be introduced.
 DDAF is a hard requirement for Private Landlords with no exceptions. RAF is valid for Property Management
 Companies only.
 
+<br></br>
+
 :::info Please be advised
 
 RAF is now available for Private Landlords who refuse DDAF. It is imperative that DDAF is presented to Private
@@ -28,6 +30,8 @@ Payee must match Owner on VOO if paying Private LL. Different Individual Payee c
 LL. Only Property Management Company may be designated as Payee by Private LL with valid PMA.
 
 :::
+
+<br></br>
 
 ### Updated Form
 

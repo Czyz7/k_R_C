@@ -59,6 +59,8 @@ sure to record the verbal consent of your member and upload the MP3 recording in
 case file along with your email request. You may use Voice Recorder to obtain the file. Failure to upload Verbal
 Disclosure audio file in either CarePatron and/or your email may result in disciplinary actions.
 
+<br></br>
+
 :::tip Verbal Disclosure
 
 "I want to inform you that this verbal disclosure is being recorded. May I please have you state your name and date
@@ -81,7 +83,11 @@ All cases are subject for review on a first-come-first-served basis. If you agre
 
 :::
 
+<br></br>
+
 ## Step 2: Legal Assistance Request Submission
+
+<br></br>
 
 :::info Use the following template to send a 'Legal Assistance Request' and obtain a CCC Legal Strategist for your member:
 

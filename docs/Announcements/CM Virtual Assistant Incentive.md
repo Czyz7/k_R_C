@@ -12,6 +12,8 @@ This benefit will allow selected HCMs the opportunity to increase their Housing 
 Once an HCMs Caseload CAPACITY is upgraded to 200 members, they would be required to continue collecting Good
 Points in order to increase their Caseload Limit to the CAPACITY of 200 members.
 
+<br></br>
+
 :::tip Requirements:
 
 - HCM has completed a minimum of 3 full billing cycles with CCC
@@ -20,9 +22,13 @@ Points in order to increase their Caseload Limit to the CAPACITY of 200 members.
 
 :::
 
+<br></br>
+
 Selected HCMs will have the opportunity to interview and select a VA candidate from a pre-approved pool of candidates.
 
 If two or more HCMs select the same candidate, it will be up to the candidate to choose the HCM they feel most compatible with.
+
+<br></br>
 
 :::info The following HCMs have been selected to participate in CCC's VA Incentive:
 
@@ -32,6 +38,8 @@ If two or more HCMs select the same candidate, it will be up to the candidate to
 - Diana Pimentel
 
 :::
+
+<br></br>
 
 HCMs are responsible for assuming the cost of their VAs compensation.
 

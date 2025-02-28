@@ -20,6 +20,8 @@ Do not confuse **"`Deactivation`"** with **"`Disenrolled`"**.
 
 :::
 
+<br></br>
+
 :::info Common Reasons for Deactivation:
 
 - **Unable to Contact (UTC)**: Must be unreachable for 90 consecutive days from most recent communication. If
@@ -30,6 +32,8 @@ Do not confuse **"`Deactivation`"** with **"`Disenrolled`"**.
 - **Duplicate Services**: Member's household member is already being assisted by CCC
 
 :::
+
+<br></br>
 
 ### Deactivation Request Template
 
@@ -48,6 +52,8 @@ Member ID #:
 Reason for Deactivation:
 
 ```
+
+<br></br>
 
 ## Member Reactivation Request
 
@@ -81,6 +87,8 @@ If contact with the member is reestablished after being deactivated, you may sub
 
 :::
 
+<br></br>
+
 ### Actionable Items
 
 :::note Examples of Actionable Items include but are not limited to the following:
@@ -93,6 +101,8 @@ If contact with the member is reestablished after being deactivated, you may sub
 - Progress Updates
 
 :::
+
+<br></br>
 
 ### Reactivation Request Template
 
@@ -121,6 +131,8 @@ Call Time (Required):
 Reason for Reactivation (Required):
 
 ```
+
+<br></br>
 
 (MDX)
 

@@ -10,6 +10,8 @@ To date, we have had incredible results onboarding new CMs who were referred to 
 creates a chain of support from friends and family who are already experienced with CCC's Policies and Procedures,
 enabling them to assist their referrals, resulting in a smoother transition into the role.
 
+<br></br>
+
 :::tip Notice!
 
 For a limited time, referring CMs will receive a $500 Instant Referral Bonus upon completion of newly contracted CM
@@ -18,6 +20,8 @@ successful referral.
 
 :::
 
+<br></br>
+
 Spread the word! Invite your most qualified friends and/or family to CCC and let's build together as one big happy family in
 support of our rich and diverse communities.
 
@@ -25,6 +29,8 @@ To apply, please have the prospect email @CA Care Coordinators HR at hr@joinccc.
 as a Housing Case Manager.
 
 ## Guide to Compensation
+
+<br></br>
 
 :::note Please proceed with the following procedure to be compensated for **`Part 1`** of your CM Partner Referrals.
 
@@ -35,6 +41,8 @@ as a Housing Case Manager.
 
 :::
 
+<br></br>
+
 :::note Please proceed with the following procedure to be compensated for **`Part 2`** of your CM Partner Referrals.
 
 1. Record the date when CM was added to RingCentral CM Group Chat.
@@ -42,6 +50,8 @@ as a Housing Case Manager.
    elapsed from the date CM was added to RingCentral CM Group Chat.
 
 :::
+
+<br></br>
 
 ## HCMs as of 08/28/2024
 

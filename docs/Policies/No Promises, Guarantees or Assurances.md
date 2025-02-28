@@ -14,6 +14,8 @@ It is crucial that in all interactions, we avoid creating the impression that an
 guaranteed, or assured. All DAR submissions are subject to Independent Underwriting Review in accordance with internal
 guidelines and procedures. All processing and turnaround times are variable on to a case-to-case basis.
 
+<br></br>
+
 :::info Examples
 
 The following are some examples which are not limited to things that cannot be promised, guaranteed or assured by

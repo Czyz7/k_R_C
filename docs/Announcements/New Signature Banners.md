@@ -5,6 +5,8 @@
 Attached you may find a ZIP file containing all of your signature banners. The banners are developed to ensure a
 high standard of image quality and are therefore oversized.
 
+<br></br>
+
 :::info You must resize yours during setup process to achieve our intended aesthetic. When setting up your banner, please follow the steps below:
 
 1. Open ZIP File and locate your banner
@@ -45,6 +47,8 @@ the corner bubbles ONLY.`**
 17. Send another email to yourself and access it with your desktop to ensure everything is set up correctly
 
 :::
+
+<br></br>
 
 We hope you like the new banners! I would like to thank our very own @Lainie Gudino for her brilliant reimagining of our logo.
 

@@ -8,6 +8,8 @@ The following link contains **CCC's Official Company Roster** and **Internal Ran
 
 To figure out your Rank when referencing the chart below, simply use the suffix of your given Role.
 
+<br></br>
+
 :::info If you have multiple Roles, your Rank will be the highest Role you possess.
 
 - **`Example A`**
@@ -27,6 +29,8 @@ To figure out your Rank when referencing the chart below, simply use the suffix 
     therefore, her Rank is X
 
 :::
+
+<br></br>
 
 :::warning **Reminder**:
 

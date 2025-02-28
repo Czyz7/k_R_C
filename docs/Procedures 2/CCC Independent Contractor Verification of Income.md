@@ -7,6 +7,8 @@
 If you are asked by an individual such as a landlord or an institution such as a lender for verification of income from
 your services with CCC, please follow the procedure below to receive an official letter from HR:
 
+<br></br>
+
 :::info Copy/Paste box below:
 
 ```

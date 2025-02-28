@@ -13,6 +13,8 @@ desktop or folder instead of bookmarking it in your browser.
 
 If you access the document via browser, bookmark this new link: https://www.docdroid.com/ExZXBQr/ddaf-pdf
 
+<br></br>
+
 :::tip Please remember:
 
 - TO BE COMPLETED BY LL/PM ONLY
@@ -23,7 +25,11 @@ If you access the document via browser, bookmark this new link: https://www.docd
 
 :::
 
+<br></br>
+
 ### Old Templates
+
+<br></br>
 
 :::danger DO NOT USE OLD TEMPLATES WHEN SUBMITTING DAR.
 

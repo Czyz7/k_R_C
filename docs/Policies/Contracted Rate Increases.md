@@ -15,6 +15,8 @@ HCM's Role:
 
 :::
 
+<br></br>
+
 Please reach out to @CCC HR Departmentf your contracted rate is below the above rate standards respective to
 your current Role. Roles may be increased or decreased by a committee of supervisors on a month-to-month basis
 according to multiple criteria such as overall performance, availability, effort and many other factors.

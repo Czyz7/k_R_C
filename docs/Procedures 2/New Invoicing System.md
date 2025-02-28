@@ -47,6 +47,8 @@ $5,001
 
 :::
 
+<br></br>
+
 The minimum required invoice amount for a New Billing Request should be no less than
 $1,000.00
 

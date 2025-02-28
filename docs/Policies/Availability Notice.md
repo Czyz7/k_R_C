@@ -35,16 +35,22 @@ Special Notes (optional): I will be in a Teams meeting with a Landlord and canno
 
 :::
 
+<br></br>
+
 ## Extended Unavailability
 
 Please be advised, to uphold our standards of quality for our members in the form of availability and continuity,
 CCC will be updating [Availability Notice](/docs/Policies/Availability%20Notice.md) to address circumstances of Extended Unavailability.
+
+<br></br>
 
 ### Red Days
 
 If you anticipate Three (3) “Red Days” in a row (under 1-Hour THT), you will be required to submit the template
 below in lieu of a standard **Availability Notice**. Corrective measures may be taken if you post 3 Red Days in a row
 without submitting the **Extended Unavailability Notice** template.
+
+<br></br>
 
 ### Caseload Temporarily Reassigned
 

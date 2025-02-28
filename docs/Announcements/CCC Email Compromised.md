@@ -2,11 +2,15 @@
 
 You may have received an email from me without any context, just a link or OneDrive attachment.
 
+<br></br>
+
 :::danger Please disregard and do not click!
 
 My account was compromised this morning. I discovered some unrecognized sign-in activity from Nigeria.
 
 :::
+
+<br></br>
 
 If you have clicked the link, please reach out to @Jessa Sanchez to change your password.
 

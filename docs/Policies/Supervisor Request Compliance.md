@@ -17,11 +17,15 @@ request by calling the Administrator of your Department.
 
 :::
 
+<br></br>
+
 :::tip ☎️
 
 Keep in mind, _all calls_ are recorded and archived.
 
 :::
+
+<br></br>
 
 ## Consequences
 
@@ -32,6 +36,8 @@ outright termination of your partnership agreement with CCC, or at the very leas
 disciplinary action.
 
 :::
+
+<br></br>
 
 ## CCC Company Roster
 

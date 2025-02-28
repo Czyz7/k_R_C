@@ -10,6 +10,8 @@
 
 :::
 
+<br></br>
+
 You are welcome to join these classes as many times as you need.
 
 Feel free to reach out to any of the Training Instructors and request an invitation to join the scheduled session if you require a refresher or have
