@@ -6,8 +6,6 @@
 
 Please see UPDATED Direct Deposit Authorization Form (DDAF).
 
-<a href="/files/ddaf.pdf" download>Download PDF</a>
-
 <br></br>
 <br></br>
 

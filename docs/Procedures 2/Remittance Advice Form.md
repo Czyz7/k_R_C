@@ -37,8 +37,6 @@ LL. Only Property Management Company may be designated as Payee by Private LL wi
 
 Please see **UPDATED** Remittance Advice Form (RAF):
 
-<a href="/files/raf.pdf" download>Download PDF</a>
-
 <br></br>
 
 <br></br>

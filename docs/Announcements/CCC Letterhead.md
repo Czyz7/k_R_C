@@ -10,15 +10,11 @@ I have attached both Word and Pages extensions for your convenience.
 
 ## Microsoft Word
 
-<a href="/files/ccc_Word.docx" download>Download Word File</a>
-
 <br></br>
 
 <br></br>
 
 ## Apple Pages
-
-<a href="/files/ccc_Pages.pages" download>Download Pages File</a>
 
 <br></br>
 
