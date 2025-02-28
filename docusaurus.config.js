@@ -12,7 +12,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: "California Care Coordinators",
   tagline: "Internal Resource Center",
-  favicon: "img/cCC.svg",
+  favicon: "img/favicon_CCC.svg",
 
   // Set the production url of your site here
   url: "https://your-docusaurus-site.example.com",

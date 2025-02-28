@@ -22,4 +22,4 @@ You may be penalized **2 BP** if your "Work Hours" are edited in RC.
 
 Please see below image for an example of what NOT to do:
 
-[PDF FILE]
+![Work Hours](/img/workhours.png)

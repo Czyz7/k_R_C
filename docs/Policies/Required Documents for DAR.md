@@ -11,4 +11,4 @@ Deposit Authorization Request (DAR).
 Please take a moment to review the template and start sharing it along with any additional instructions or
 clarifications as needed.
 
-[PDF DOWNLOAD HERE]
+- Cannot find PDF
