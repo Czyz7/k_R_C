@@ -35,14 +35,30 @@ LL. Only Property Management Company may be designated as Payee by Private LL wi
 
 ### Updated Form
 
-Please see **UPDATED** Remittance Advice Form (RAF) (attached).
+Please see **UPDATED** Remittance Advice Form (RAF):
 
-**Remember to delete your outdated PDF and replace with the new PDF if you access the document locally on your
-desktop or folder instead of bookmarking it in your browser**.
+[View the RAF.pdf file](/files/raf.pdf)
+
+<a href="/files/raf.pdf" download>Download PDF</a>
+
+<br></br>
+
+<br></br>
+
+:::warning Reminder!
+
+Delete your outdated PDF and replace with the new PDF if you access the document locally on your
+desktop or folder instead of bookmarking it in your browser.
+
+:::
+
+<br></br>
 
 If you access the document via browser, b**ookmark this new link**: https://www.docdroid.com/dtAXQRk/remittance-
 advice-form-raf-pdf
 
-**DO NOT USE OLD TEMPLATE WITH OLD LOGO**
+:::warning **DO NOT USE OLD TEMPLATE WITH OLD LOGO**
 
 **IF YOU HAVE A DAR THAT WAS RECEIVED PRIOR TO THIS UPDATE YOU MAY SUBMIT OLDER VERSION**
+
+:::

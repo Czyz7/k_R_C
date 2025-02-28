@@ -37,7 +37,7 @@ GRAND TOTAL: $455
 
 ## Rules
 
-:::tip Notice
+:::warning Notice
 
 Due to a very specific bookkeeping automated rule in place, @CCC Payables Department will deny all invoices
 in the amounts of exactly $3,000 and $5,000

@@ -6,7 +6,16 @@
 
 Please see UPDATED Direct Deposit Authorization Form (DDAF).
 
-(Attachment)
+[View the DDAF.pdf file](/files/ddaf.pdf)
+
+<a href="/files/ddaf.pdf" download>Download PDF</a>
+
+<br></br>
+<br></br>
+
+# My Markdown page
+
+<br></br>
 
 Remember to delete your outdated PDF and replace with the new PDF if you access the document locally on your
 desktop or folder instead of bookmarking it in your browser.
