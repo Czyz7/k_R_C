@@ -73,11 +73,9 @@ Body:
 
 Good Morning/Good Afternoon,
 
-Please be advised of my EXTENDED Unavailability below. I am aware my members will be temporarily
+Please be advised of my EXTENDED Unavailability below. I am aware my members will be temporarily reassigned to other Housing Case Managers in the interim.
 
-reassigned to other Housing Case Managers in the interim. I also understand I will not be compensated for
-
-the days I am Unavailable. I will
+I also understand I will not be compensated for the days I am Unavailable.
 
 Date(s): 12/01/2024-12/07/2024
 
