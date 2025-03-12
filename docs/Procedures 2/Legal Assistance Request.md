@@ -1,6 +1,6 @@
 # Legal Assistance Request
 
-### \*Effective 02/24/2025
+### \*Effective 02/27/2025
 
 ### Appreciation
 

@@ -1,6 +1,6 @@
 # New Invoicing System
 
-### \*Effective 11/22/2024
+### \*Effective 03/03/2025
 
 ## Procedure
 
@@ -37,6 +37,8 @@ GRAND TOTAL: $455
 
 ## Rules
 
+### Invoice Amounts
+
 :::warning Notice
 
 Due to a very specific bookkeeping automated rule in place, @CCC Payables Department will deny all invoices
@@ -56,3 +58,11 @@ Please do not Invoice CCC until you have accrued a total of at least $1,000.00 i
 
 This applies to Navigation/Sustaining invoices ONLY and does not apply to any qualifying Zelle reimbursements such
 as Intakes or any small refundable expenses incurred while providing HCM services.
+
+### Invoice Submissions
+
+Please be advised, as of the week of Monday, March 3rd, 2025, HCM Invoices are limited to a maximum of two (2)
+submission per week. We ask that you submit no more than two (2) invoices weekly to avoid creating a backlog of
+invoices for @CCC Payables Department
+
+A week, as defined within the context of this procedure, is considered Monday-Sunday.

@@ -1,12 +1,10 @@
 # Availability Notice
 
-### \*Effective 12/19/2024
+### \*Effective 02/12/2025
 
-## Unavailability or Limited Availability
+## Standard (Non-Extended) Availability Notice
 
-As Official Policy, if you anticipate being Out of Office or having Limited or Special Hours for a day, or a
-period of time, resulting in unavailability or limited availability, please use the following email template so
-Reception is aware:
+Please use the following updated template below to report a standard (non-extended) Availability Notice:
 
 :::info Copy/Paste the template here:
 
