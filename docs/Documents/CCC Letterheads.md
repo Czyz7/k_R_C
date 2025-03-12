@@ -2,8 +2,8 @@
 
 ## Microsoft Word Document (.docx)
 
-[Download Word File](/static/files/CCC%20-%20Letterhead%20V3.0%20MS%20Word.docx)
+[Download Word File](/files/CCC%20-%20Letterhead%20V3.0%20MS%20Word.docx)
 
 ## Apple Pages Document (.pages)
 
-[Download Pages File](/static/files/CCC%20-%20Letterhead%20V3.0%20Pages.pages)
+[Download Pages File](/files/CCC%20-%20Letterhead%20V3.0%20Pages.pages)
