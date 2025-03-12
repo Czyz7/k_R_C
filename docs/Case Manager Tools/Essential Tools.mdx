@@ -1,3 +1,16 @@
+export const Highlight = ({ children, color }) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: "2px",
+      color: "#fff",
+      padding: "0.2rem",
+    }}
+  >
+    {children}
+  </span>
+);
+
 # Essential Tools
 
 :::info Necessary for all HCMs
@@ -24,14 +37,19 @@
 
 ### Tips and Tricks
 
-(MDX)
+<br></br>
 
-Microsoft Outlook: For now, its advised to use the browser version of outlook. That version crashes less and is can be much faster/responsive.
+<Highlight color="#0433ff">Microsoft Outlook</Highlight>: For now, its advised
+to use the browser version of outlook. That version crashes less and is can be
+much faster/responsive.
 
-RingCentral: Download the app for your laptop/desktop! You'll notice a far greater range of use and functionality. Be sure to turn the AI settings on!
+<Highlight color="#ff9300">RingCentral</Highlight>: Download the app for your
+laptop/desktop! You'll notice a far greater range of use and functionality. Be
+sure to turn the AI settings on!
 
 Even if you don't use it for every call, it sure can be useful every now and again.
 
-Plaid: Setup Multi-Factor Authentication and set it as a requirement for each time you log in.
+<Highlight color="#25c2a0">Plaid</Highlight>: Setup Multi-Factor Authentication
+and set it as a requirement for each time you log in.
 
 Outside of this being considered a best practice, that extra layer of security is worth the time and effort to ensure our members information is safeguarded.

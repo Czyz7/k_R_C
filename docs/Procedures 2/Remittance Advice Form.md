@@ -11,13 +11,15 @@ If DDAF is refused, please have PM fill out RAF in lieu of DDAF in order for CCC
 reliable delivery information for recipient. Please note, recipient must designate one individual to sign the parcel at
 time of delivery, otherwise delivery will be denied.
 
-(MDX)
+:::danger ‼️
 
 DDAF must be presented to PMs initially with no mention of RAF. If DDAF is refused, then and only then may RAF
 be introduced.
 
 DDAF is a hard requirement for Private Landlords with no exceptions. RAF is valid for Property Management
 Companies only.
+
+:::
 
 <br></br>
 
@@ -34,10 +36,6 @@ LL. Only Property Management Company may be designated as Payee by Private LL wi
 <br></br>
 
 ### Updated Form
-
-Please see **UPDATED** Remittance Advice Form (RAF):
-
-<br></br>
 
 <br></br>
 

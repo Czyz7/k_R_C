@@ -1,3 +1,3 @@
 # Promissory Note
 
-(INSERT PDF HERE)
+[Promissory Note](/files/Promissory%20Note.pdf)

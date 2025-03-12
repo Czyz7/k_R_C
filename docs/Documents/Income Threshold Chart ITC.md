@@ -1,3 +1,3 @@
 # Income Threshold Chart ITC
 
-(INSERT PDF)
+![Ranking](/img/IncomeThresholdChart.png)

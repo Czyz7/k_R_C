@@ -12,11 +12,13 @@ I have attached both Word and Pages extensions for your convenience.
 
 <br></br>
 
-<br></br>
+[Download Word File](/static/files/CCC%20-%20Letterhead%20V3.0%20MS%20Word.docx)
 
 ## Apple Pages
 
 <br></br>
+
+[Download Pages File](/static/files/CCC%20-%20Letterhead%20V3.0%20Pages.pages)
 
 <br></br>
 

@@ -1,3 +1,3 @@
 # Verification of Benefits
 
-(INSERT PDF HERE)
+[Verification of Benefits](/files/Verification%20of%20Benefits.pdf)
