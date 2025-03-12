@@ -1,3 +1,16 @@
+export const Highlight = ({ children, color }) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: "2px",
+      color: "#fff",
+      padding: "0.2rem",
+    }}
+  >
+    {children}
+  </span>
+);
+
 # New or Reassigned Member Outreach Timeframe Requirement
 
 ### \*Effective 01/16/2025
@@ -14,8 +27,6 @@ respective member's Carepatron documentation.
 
 :::danger Consider
 
-(MDX)
-
-Failure to attempt contact within the appropriate time frame may result in a penalty of 1.5 BP per member.
+Failure to attempt contact within the appropriate time frame may result in a penalty of <Highlight color="#ff2600">1.5 BP</Highlight> per member.
 
 :::

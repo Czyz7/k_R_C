@@ -1,3 +1,16 @@
+export const Highlight = ({ children, color }) => (
+  <span
+    style={{
+      backgroundColor: color,
+      borderRadius: "2px",
+      color: "#fff",
+      padding: "0.2rem",
+    }}
+  >
+    {children}
+  </span>
+);
+
 # Member Deactivation/Reactivation Request
 
 ### \*Effective Immediately 12/17/2024
@@ -106,9 +119,10 @@ If contact with the member is reestablished after being deactivated, you may sub
 
 ### Reactivation Request Template
 
-(MDX)
+<Highlight color="#b51a00">\*All Fields Required</Highlight>
 
-\*All Fields Required
+<br></br>
+<br></br>
 
 ```
 
@@ -134,8 +148,10 @@ Reason for Reactivation (Required):
 
 <br></br>
 
-(MDX)
-
 The following points will be assessed based on compliance of the above template.
-• Perfect Submission: 0.25 GP Total
-• Non-Compliance: 0.25 BP Per Occurrence
+
+<br></br>
+
+• <Highlight color="#25c2a0">Perfect Submission</Highlight>: 0.25 GP Total
+
+• <Highlight color="#ff2600">Non-Compliance</Highlight>: 0.25 BP Per Occurrence

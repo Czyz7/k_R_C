@@ -1,3 +1,19 @@
+export const Highlight = ({ children, color }) => (
+<span
+style={{
+      backgroundColor: color,
+      borderRadius: "2px",
+      color: "#fff",
+      padding: "0.2rem",
+    }}
+
+>
+
+    {children}
+
+  </span>
+);
+
 # No Promises, Guarantees or Assurances
 
 ### \*Effective Immediately 05/21/2024
@@ -5,10 +21,8 @@
 The following is CCC's official policy regarding Promises, Guarantees or Assurances when speaking with Members,
 Landlords, Property Managers, Social Workers or any other party while representing CCC.
 
-(MDX)
-
 As per CCC's Verbal Terms of Service Agreement played via audio and signed verbally by Members during their individual
-Intake Assessment Procedure: California Care Coordinators does not guarantee any specific outcomes
+Intake Assessment Procedure: <Highlight color="#ff2600">California Care Coordinators does not guarantee any specific outcomes</Highlight>
 
 It is crucial that in all interactions, we avoid creating the impression that any result or expectation is promised,
 guaranteed, or assured. All DAR submissions are subject to Independent Underwriting Review in accordance with internal

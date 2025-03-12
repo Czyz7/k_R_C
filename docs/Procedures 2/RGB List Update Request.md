@@ -4,6 +4,8 @@
 
 ## Disclaimer:
 
+<br></br>
+
 :::danger Consider
 
 Company tools and resources are private, proprietary, and contain highly sensitive information.
@@ -19,25 +21,48 @@ domestic and international law.
 
 ## RBG List
 
+<br></br>
+
 CCC has developed an internal tool to help categorize and track our current and former Housing Provider
 partnerships.
 
 Private Landlords, Property Management Companies, Government Agencies and other Housing
 Providers will be placed into the following lists by @CCC Underwriting Department:
 
-(MDX)
+<br></br>
 
-RED List: Housing Providers that CCC does not currently work with due to the provider's preference for a
+:::danger RED List:
+
+Housing Providers that CCC does not currently work with due to the provider's preference for a
 variety of reasons including company policy of refusal to work with third-party organizations, negative
 experience(s) with other third-party organizations, lack of awareness of CalAIM Community Supports, etc.
 
-GREEN List: Housing Providers that CCC does currently work with which have been verified through at least
+:::
+
+<br></br>
+
+:::tip GREEN List:
+
+Housing Providers that CCC does currently work with which have been verified through at least
 one prior successful DAR and are "Trusted" Housing Providers.
 
-BLACK List: Housing Providers that CCC does not currently work with due to CCC's preference for a variety of
+:::
+
+<br></br>
+
+:::note BLACK List:
+
+Housing Providers that CCC does not currently work with due to CCC's preference for a variety of
 reasons including Fraud and/or Abuse of our services.
 
-:::info We expect HCMs to help maintain this tool's relevance by contributing to the RGB List.
+:::
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+:::warning We expect HCMs to help maintain this tool's relevance by contributing to the RGB List.
 
 Please report any necessary updates to the RGB status of Housing Providers by submitting the following template.
 

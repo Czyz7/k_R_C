@@ -1,12 +1,26 @@
+export const Highlight = ({ children, color }) => (
+<span
+style={{
+      backgroundColor: color,
+      borderRadius: "2px",
+      color: "#fff",
+      padding: "0.2rem",
+    }}
+
+>
+
+    {children}
+
+  </span>
+);
+
 # DO NOT Deactivate
 
 ### \*Effective Immediately 06/21/2024
 
 Please be informed, only @CA Care Coordinators Billing is authorized to Deactivate member profiles in Carepatron.
 
-(MDX)
-
-DO NOT DEACTIVATE MEMBER PROFILES UNDER ANY CIRCUMSTANCES
+<Highlight color="#ff2600">DO NOT DEACTIVATE MEMBER PROFILES UNDER ANY CIRCUMSTANCES</Highlight>
 
 If you believe a member should be deactivated, please submit Deactivation Request email. Refer to email titled
 [Member Deactivation Request](Member%20Deactivation%20Request) for further details.
