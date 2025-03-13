@@ -118,7 +118,7 @@ const config = {
             items: [
               {
                 label: "Homepage",
-                to: "/",
+                to: "https://joinccc.org",
               },
             ],
           },
