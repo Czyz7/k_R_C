@@ -1,5 +1,7 @@
 # Training Schedule
 
+<br></br>
+
 :::info Please be advised of CCC's Updated Training Schedule below:
 
 - **Mondays**: Mariam 10:00am - 12:00pm discussing **DEPOSIT AUTHORIZATION REQUEST (DAR)**

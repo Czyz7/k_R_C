@@ -2,6 +2,8 @@
 
 ### \*Effective 09/24/2024
 
+<br></br>
+
 Please be advised, if you require to receive a fax, you may have the sender remit to CCC's Official Fax Number below:
 
 **CCC Official Fax Number**:

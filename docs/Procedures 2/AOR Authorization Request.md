@@ -2,6 +2,8 @@
 
 ### \*Effective 10/28/2024
 
+<br></br>
+
 The following is your Official Procedure for 3rd party callers inquiring on behalf of an applicant to either help a
 member join the program, or request updates on behalf of an applicant. `You must establish AOR/POA Authorization
 to provide information to 3rd party callers.`
@@ -61,3 +63,5 @@ AOR/POA and Eligibility attached.
 ```
 
 :::
+
+<br></br>

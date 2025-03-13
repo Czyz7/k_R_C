@@ -2,6 +2,8 @@
 
 ### \*Effective Immediately 07/22/2024
 
+<br></br>
+
 :::danger Please be advised, your cutoff time for placing Outgoing calls is 8pm PST.
 
 Kindly refrain from making calls beyond this time.

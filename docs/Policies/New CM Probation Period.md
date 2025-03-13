@@ -2,6 +2,8 @@
 
 ### \*Effective 08/28/2024
 
+<br></br>
+
 The following is CCC's Official Policy for New CMs regarding your Initial Probationary Period. CCC expects New CMs to
 **THOROUGLY** read through all provided materials, specifically, `Policies/Procedures/Announcements`, prior to accepting New
 Members.

@@ -2,6 +2,8 @@
 
 ### \*Effective Immediately 05/01/2024
 
+<br></br>
+
 :::tip To ensure quality of all calls:
 
 It is important and mandatory to turn on 'Remove Background Noise' in the settings of your
@@ -16,3 +18,7 @@ RingCentral desktop and mobile apps.
 - **For Mobile**:
 
   Click your initials at the Top-Left.
+
+:::
+
+<br></br>

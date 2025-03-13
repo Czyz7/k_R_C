@@ -2,6 +2,8 @@
 
 ### \*Effective 12/17/2024
 
+<br></br>
+
 :::tip 📋
 Please be advised that we have created the attached **Document List Template** to be provided to our prospective
 Private Landlords and Property Managers when requesting the necessary documentation in preparation of the

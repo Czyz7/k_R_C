@@ -2,6 +2,8 @@
 
 ### \*Effective 01/29/2024
 
+<br></br>
+
 The following is the official procedure for Verification of Identity (VOI) and Verification of Ownership (VOO) for Deposit
 Authorization Requests greater than $3,000.
 

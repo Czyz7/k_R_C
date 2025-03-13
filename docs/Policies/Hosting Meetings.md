@@ -2,6 +2,8 @@
 
 ### \*Effective 09/26/2024
 
+<br></br>
+
 :::tip _**Context**_
 
 - **Internal** = CCC Employees, Affiliates, Contractors, Representatives
@@ -10,6 +12,7 @@
 
 :::
 
+<br></br>
 <br></br>
 
 :::info Please be advised:
@@ -33,6 +36,7 @@ in `External` Meetings for **Training Instructors** is strictly prohibited.
 
 :::
 
+<br></br>
 <br></br>
 
 If you believe CCC may benefit from a potential partnership with another organization, or if you were invited to

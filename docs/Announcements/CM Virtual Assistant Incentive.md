@@ -2,6 +2,8 @@
 
 ### \*Effective 12/12/2024
 
+<br></br>
+
 I am excited to announce CCC's Virtual Assistant Incentive for our top performing HCMs.
 
 CCC will be offering the opportunity for HCMs who display outstanding effort, production and availability to be rewarded with a

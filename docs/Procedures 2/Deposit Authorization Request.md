@@ -2,6 +2,8 @@
 
 ### \*Effective 01/28/2025
 
+<br></br>
+
 Please be advised of new DAR Procedure updates highlighted in blue. Effective IMMEDIATELY, DAR must not be submitted until 14 Days prior to Move-In Date which is now tied to the Lease Commencement Date found on the Residential Lease Agreement (RLA).
 
 The Lease Commencement Date is the date the lease term begins.

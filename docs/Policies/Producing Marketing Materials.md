@@ -2,6 +2,8 @@
 
 ### \*Effective 09/24/2024
 
+<br></br>
+
 Please be advised, **CCC Team Members Rank B or Lower are UNAUTHORIZED to produce and/or distribute physical
 or digital marketing media or materials on behalf of CCC, IEHP or any other partners or affiliates of CCC**.
 

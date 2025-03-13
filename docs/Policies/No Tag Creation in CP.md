@@ -2,6 +2,8 @@
 
 ### \*Effective 09/20/2024
 
+<br></br>
+
 Please be advised, only Team Members with Rank A or higher are allowed to create New Tags in Carepatron (CP).
 
 Please refrain from making any new tags in the system. If you believe we could benefit from a new tag, you are

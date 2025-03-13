@@ -2,6 +2,8 @@
 
 ### \*Effective 09/04/2024
 
+<br></br>
+
 Attached you may find a ZIP file containing all of your signature banners. The banners are developed to ensure a
 high standard of image quality and are therefore oversized.
 

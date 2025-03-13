@@ -2,6 +2,8 @@
 
 ### \*Effective Immediately 03/07/2024
 
+<br></br>
+
 :::warning Please be advised
 
 CCC will not tolerate verbal abuse, threats, or any explicit and offensive language against our team
@@ -11,6 +13,8 @@ Please refer to this policy should you ever require quick reference material if 
 yourself facing an emotionally charged situation.
 
 :::
+
+<br></br>
 
 An appropriate response would be as follows:
 
@@ -26,9 +30,13 @@ end this call and disenroll you from CCC's Rapid Re-Housing Program forfeiting y
 
 <br></br>
 
+<br></br>
+
 :::danger If member continues, you may abruptly end the call, notate CP extensively and contact your supervisor.
 
 :::
+
+<br></br>
 
 <br></br>
 

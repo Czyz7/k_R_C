@@ -2,6 +2,8 @@
 
 ### \*Effective immediately 01/02/2025
 
+<br></br>
+
 All inbound IEHP calls must be transferred to the Administrator of your Department.
 
 If an Administrator is unavailable, please attempt to reach an Administrator of another Department.
@@ -51,6 +53,8 @@ Member DOB:
 
 ## Exception:
 
+<br></br>
+
 :::warning ‼️
 
 If the Inbound IEHP representative is a Member's Enhanced Care Manager (ECM), the caller may be
@@ -59,3 +63,5 @@ transferred to the Member's assigned CM for collaboration.
 You may refer to CCC's Company Roster for your Department Administrator's contact information.
 
 :::
+
+<br></br>

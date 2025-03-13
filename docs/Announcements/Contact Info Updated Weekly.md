@@ -2,6 +2,8 @@
 
 ### \*Effective 02/29/2024
 
+<br></br>
+
 Please be advised, CCC now updates member contact information twice weekly while checking for member eligibility.
 
 If there is a new phone number reporting in the member's IEHP profile, Adrian will update the Personal Information section

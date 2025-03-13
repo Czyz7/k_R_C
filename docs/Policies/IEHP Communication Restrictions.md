@@ -2,6 +2,8 @@
 
 ### \*Effective 09/26/2024
 
+<br></br>
+
 :::warning Please be advised
 
 **CCC Team Members Rank B or Lower are UNAUTHORIZED to communicate with IEHP in any
@@ -14,6 +16,7 @@ capacity except** when:
 
 :::
 
+<br></br>
 <br></br>
 
 :::danger DO NOT:

@@ -2,6 +2,8 @@
 
 ### \*Effective 09/03/2024
 
+<br></br>
+
 The following link contains **CCC's Official Company Roster** and **Internal Ranking Chart**:
 
 [CCC's Official Company Roster and Internal Ranking Chart](https://docs.google.com/spreadsheets/d/1toNYehOL54HCwxjT2MVOYyUfA8Q4B9K56u0Jz-gwPs4/edit?gid=1238441953#gid=1238441953)
@@ -38,3 +40,5 @@ Regardless of a colleague's ranking, all CCC Team Members must be treated with r
 professionalism. Mistreatment of lower ranking Team Members will not be tolerated.
 
 :::
+
+<br></br>

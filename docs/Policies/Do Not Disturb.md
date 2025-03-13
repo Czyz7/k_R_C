@@ -7,6 +7,8 @@
 An [Availability Notice](/docs/Policies/Availability%20Notice.md) is required if you must set your extension to DND during business
 hours.
 
+<br></br>
+
 :::warning Consider
 
 - **If you are away for a break**, please set your status to Invisible and provide a customized courtesy Status
@@ -16,5 +18,7 @@ hours.
   team.
 
 :::
+
+<br></br>
 
 You may refer to [Availability Notice](/docs/Policies/Availability%20Notice.md) for help with your submission.

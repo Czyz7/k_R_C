@@ -1,5 +1,7 @@
 # Verification of Ownership Help
 
+<br></br>
+
 :::tip Hover over the highlighted text and click the link to visit the site
 
 :::

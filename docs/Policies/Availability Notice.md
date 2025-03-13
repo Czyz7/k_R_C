@@ -57,6 +57,9 @@ note, you will not be paid for the days you miss. Both the CM missing-in-action 
 responsible for the accurate prorated billing reflective of the days they were each assigned out of 30, per billing
 cycle, per case serviced.
 
+<br></br>
+<br></br>
+
 :::info Copy/Paste the template here:
 
 ```

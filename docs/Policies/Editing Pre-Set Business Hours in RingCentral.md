@@ -6,6 +6,8 @@
 
 CCC's Official Hours of Operation are from 09:00am-06:00pm PST.
 
+<br></br>
+
 ## RingCentral
 
 Please be advised, CCC team members should not be editing via RingCentral.
@@ -14,12 +16,18 @@ We ask that you refrain from changing your individual "Work Hours" via your Ring
 
 You should not be receiving any incoming calls before or after CCC's official Hours of Operation.
 
+<br></br>
+
 :::danger Consider
 
 You may be penalized **2 BP** if your "Work Hours" are edited in RC.
 
 :::
 
+<br></br>
+
 Please see below image for an example of what NOT to do:
+
+<br></br>
 
 ![Work Hours](/img/workhours.png)
