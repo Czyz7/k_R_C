@@ -1,10 +1,10 @@
-# VOI and VOO
+# VOI and POO
 
 ### \*Effective 01/29/2024
 
 <br></br>
 
-The following is the official procedure for Verification of Identity (VOI) and Verification of Ownership (VOO) for Deposit
+The following is the official procedure for Verification of Identity (VOI) and Proof of Ownership (POO) for Deposit
 Authorization Requests greater than $3,000.
 
 ## Verification of Identity (VOI):
@@ -42,7 +42,7 @@ Pass: `Forccc2023!`
 
 Log In, Search by address and search for Owner information provided in the report.
 
-If unable to log in due to a code request, you may log into verifications@joinccc.org with the same credentials provided to obtain the code.
+If you're unable to log in due to a code request, you may log into verifications@joinccc.org using the same email address and obtain the password from Jessa Sanchez in order to log in and get the code.
 
 ## Secretary of State (SOS)
 
@@ -51,4 +51,4 @@ State's Business Search tool to verify company is Active.
 
 Secretary of State Business Search:
 
-https://bizfileonline.sos.ca.gov/search/busi
+https://bizfileonline.sos.ca.gov/search/business
