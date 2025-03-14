@@ -9,9 +9,9 @@ HCM's Role:
 
 :::note
 
-- Housing Case Manager II: $110 Per Memeber Per Month
+- Housing Case Manager II: $110 Per Member Per Month
 
-- Housing Case Manager III: $135 Per Memeber Per Month
+- Housing Case Manager III: $135 Per Member Per Month
 
 :::
 

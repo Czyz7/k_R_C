@@ -1,4 +1,4 @@
-# IEHP Inbound Calls
+# IEHP Calls (Inbound)
 
 ### \*Effective immediately 01/02/2025
 

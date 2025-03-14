@@ -1,6 +1,6 @@
 # Missed Call Report (Bad Points)
 
-### \*Effective Immediately 07/26/2024
+### \*Effective Immediately 08/01/2024
 
 <br></br>
 
