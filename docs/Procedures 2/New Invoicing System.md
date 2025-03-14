@@ -7,33 +7,34 @@
 The following is your updated procedure for Invoicing CCC as a Case Manager. Please pay special attention to the
 parts highlighted in blue:
 
-:::info Copy/Paste Box Within
+1. Send email to payables@joinccc.org and cc: mae.v@joinccc.org
+2. Subject: New Billing Request
+3. Body:
 
-- Send email to payables@joinccc.org and cc: mae.v@joinccc.org
-- Subject: New Billing Request
-- Body: Good Morning/Afternoon, Requesting Payment for the following member(s):
+```
+Good Morning/Afternoon,
 
-```NAVIGATION
+Requesting Payment for the following member(s):
 
-1. Jon Doe (02/14/24-03/14/24) $135
+NAVIGATION
 
-2. Michael Jackson (02/12/24-03/11/24) $135
+- Jon Doe (02/14/24-03/14/24) $135
+- Michael Jackson (02/12/24-03/11/24) $135
+- Taylor Swift
 
-3. Taylor Swift (02/10/24-03/09/24) $135
+(02/10/24-03/09/24) $135
 
-   TOTAL: $405
+- TOTAL: $405
 
-   SUSTAINING
+SUSTAINING
 
-4. Jon Doe (02/14/24-03/14/24) $50
+- Jon Doe (02/14/24-03/14/24) $50
 
 - TOTAL: $50
 
 GRAND TOTAL: $455
 
 ```
-
-:::
 
 ## Rules
 
@@ -66,3 +67,10 @@ submission per week. We ask that you submit no more than two (2) invoices weekly
 invoices for @CCC Payables Department
 
 A week, as defined within the context of this procedure, is considered Monday-Sunday.
+
+### Zelle
+
+Please be informed that as of today, March 14th, 2024, CCC will no longer be processing invoices via Zelle. We have reached a point where our monthly payroll amount exceeds our monthly Zelle limit.
+Moving forward, and until further notice, CCC Payables will be processing invoices via ACH Direct Deposit. The information you provide must match your W-9 on file.
+
+For new hires, a voided check must be submitted to HR (this will be requested when the new HCM is hired). If you do not have a voided check, the first page of your most recent bank statement showing your account number and your name will suffice in lieu. We are not interested in seeing your transactions.
