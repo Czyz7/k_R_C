@@ -6,10 +6,7 @@
 
 Please see UPDATED Direct Deposit Authorization Form (DDAF).
 
-<br></br>
-<br></br>
-
-# My Markdown page
+[Direct Deposit Authorization Form](/files/Direct%20Deposit%20Authorization%20Form%20-%20DDAF.pdf)
 
 <br></br>
 
@@ -43,3 +40,11 @@ IF YOU HAVE A DAR THAT WAS RECEIVED PRIOR TO THIS UPDATE YOU MAY SUBMIT OLDER VE
 :::
 
 <br></br>
+
+### Voided Check
+
+<br></br>
+
+LL's and PM's must provide a Voided Check along with the filled and signed Direct Deposit Authorization Form to
+ensure the form has been filled out accurately. If a voided check is unavailable, we will accept the Bank Routing and
+Account Numbers on Bank Letterhead or a Deposit Slip displaying Bank Routing and Account Numbers.

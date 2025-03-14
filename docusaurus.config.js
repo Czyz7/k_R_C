@@ -103,11 +103,6 @@ const config = {
             label: "Member Resources",
             position: "left",
           },
-          {
-            to: "/docs/category/trusted-pmslls",
-            label: "Trusted PMs/LLs",
-            position: "left",
-          },
         ],
       },
       footer: {
@@ -153,10 +148,6 @@ const config = {
               {
                 label: "Member Resources",
                 to: "/docs/category/member-resources",
-              },
-              {
-                label: "Trusted PMs/LLs",
-                to: "/docs/category/trusted-pmslls",
               },
             ],
           },

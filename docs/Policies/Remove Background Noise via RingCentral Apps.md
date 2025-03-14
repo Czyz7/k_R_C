@@ -17,7 +17,7 @@ RingCentral desktop and mobile apps.
 
 - **For Mobile**:
 
-  Click your initials at the Top-Left.
+  Click your initials at the Top-Left. Under Settings category select Phone. Under General Category, select "Background noise reduction". Turn on.
 
 :::
 

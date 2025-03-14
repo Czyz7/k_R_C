@@ -1,6 +1,6 @@
 # Team Mentions
 
-### \*Effective Immediately 11/04/2024
+### \*Effective Immediately 10/10/2024
 
 <br></br>
 
