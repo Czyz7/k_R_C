@@ -1,6 +1,6 @@
 # Contact Info Updated Weekly
 
-### \*Effective 02/29/2024
+### \*Effective 12/28/2024
 
 <br></br>
 
