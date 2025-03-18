@@ -22,7 +22,7 @@ message (you should use your direct CCC number provided)
 - Share link with member's Landlord
 - Verify under Passed tab once Landlord informs you they have completed verification successfully
 
-## Verification of Ownership (VOO):
+## Proof of Ownership(POO)/Verification of Ownership (VOO):
 
 <br></br>
 

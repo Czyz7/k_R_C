@@ -17,7 +17,7 @@ Navigation/Sustaining raises for existing CMs at $135/$50 PMPM are also ineligib
 
 <br></br>
 
-## Guide to Compensation
+## Guide to Compensation (07/31/24)
 
 <br></br>
 
@@ -59,7 +59,7 @@ friends, family, loved ones, former co-workers, former classmates, colleagues, a
 
 CCC is actively contracting new CM Partners.
 
-### Consideration of Exceptional Talent
+## Consideration of Exceptional Talent (06/24/24)
 
 Please be informed, **CCC is _always_ hiring new Case Managers**!
 
