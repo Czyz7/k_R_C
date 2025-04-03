@@ -1,6 +1,6 @@
 # HTNS Renewal Request
 
-### \*Effective 03/10/2025
+### \*Effective 04/01/2025
 
 <br></br>
 
@@ -27,7 +27,7 @@ If most recent phone communication was greater than 30 calendar days, you may re
 
 ```
 To: jessa.s@joinccc.org
-Cc: underwriting@joinccc.org
+Cc: underwriting@joinccc.org, billing@joinccc.org
 
 Good Morning/Afternoon,
 

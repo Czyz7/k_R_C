@@ -1,6 +1,6 @@
 # LL/PM DAR Cancellation
 
-### \*Effective 03/21/2025
+### \*Effective 03/31/2025
 
 The following is your Official Procedure regarding Landlord or Property Management DAR Cancellations.
 
@@ -12,7 +12,7 @@ services.
 
 ### TEMPLATE
 
-To: contact@joinccc.org , billing@joinccc.org , payables@joinccc.org
+To: contact@joinccc.org , billing@joinccc.org , payables@joinccc.org, ruz.p@joinccc.org
 
 Cc: mariam.d@joinccc.org , nicolas.a@joinccc.org , jessa.s@joinccc.org , graci.r@joinccc.org
 

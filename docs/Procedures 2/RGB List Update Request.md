@@ -1,6 +1,6 @@
 # RGB List Update Request (Red, Green, Black)
 
-### \*Effective 02/21/2025
+### \*Effective 03/31/2025
 
 ## Disclaimer:
 
@@ -87,9 +87,11 @@ Furthermore, once a Housing Provider is on the Black List, they may no longer tr
 
 To: Underwriting@joinccc.org
 
+Cc: mariam.d@joinccc.org
+
 Subject: RGB List Update Request
 
-Body: Good Morning/Aftrnoon,
+Body: Good Morning/Afternoon,
 
 
 Requesting RGB List update. Please see the details below.
